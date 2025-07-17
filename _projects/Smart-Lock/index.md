@@ -11,7 +11,7 @@ skills:
   - IoT system integration (ESP32 + backend)
   - Low-level firmware interfacing (COM setup, MAC binding)
   - Git-based collaboration
-main-image: _projects/pics/Untitled-1.png
+main-image: /Untitled-1.png
 ---
 
 ## Project: Solar Smart Lock
@@ -58,17 +58,17 @@ I worked in a team of four. While others handled hardware and CAD (SolidWorks), 
 
 ## Architecture Diagram
 
-{% include image-gallery.html images="_projects/pics/system_architecture.png" height="400" %}
+{% include image-gallery.html images="/system_architecture.png" height="400" %}
 
 ---
 
 ## Screenshots
 
 ### Desktop App (WPF)
-{% include image-gallery.html images="_projects/pics/c_app_mainpage.png, _projects/pics/c_app_user_table.png" height="400" %}
+{% include image-gallery.html images="/c_app_mainpage.png, /c_app_user_table.png" height="400" %}
 
 ### Web Dashboard
-{% include image-gallery.html images="_projects/pics/admin_dash_web.png, _projects/pics/user_dash_web.png" height="400" %}
+{% include image-gallery.html images="/admin_dash_web.png, /user_dash_web.png" height="400" %}
 
 ---
 
