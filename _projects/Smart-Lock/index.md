@@ -11,7 +11,7 @@ skills:
   - IoT system integration (ESP32 + backend)
   - Low-level firmware interfacing (COM setup, MAC binding)
   - Git-based collaboration
-main-image: /Untitled-1.png
+main-image: /Untitled-2.png
 ---
 
 ## Project: Solar Smart Lock
