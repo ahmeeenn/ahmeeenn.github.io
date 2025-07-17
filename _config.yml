@@ -16,10 +16,10 @@ name: Ahmed EN-NOUR
 headline: Bridging Embedded Systems with Intelligent Design
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Hi, I'm Ahmed En-Nour – a Mechatronics Engineering student based in Kiel, passionate about 
-  embedded systems, automation, and innovative tech solutions.
-With hands-on experience in IT service management, software testing, and technical tools like MATLAB, 
-KiCad, and SolidWorks, I bring both practical skills and a deep enthusiasm for problem-solving and system optimization. 
-I thrive in multidisciplinary environments and am constantly exploring projects in robotics, programming, and machine learning.
+    embedded systems, automation, and innovative tech solutions.
+  With hands-on experience in IT service management, software testing, and technical tools like MATLAB, 
+  KiCad, and SolidWorks, I bring both practical skills and a deep enthusiasm for problem-solving and system optimization. 
+  I thrive in multidisciplinary environments and am constantly exploring projects in robotics, programming, and machine learning.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
